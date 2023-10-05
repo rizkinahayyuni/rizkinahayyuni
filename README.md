@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/rizkina_putrii/">
-  <img align="left" alt="Rizkina's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://linkedin.com/in/rizkina-hayyuni/">
-  <img align="left" alt="Rizkina's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=rizkinahayyuni.rizkinahayyuni)
 
 <br />
