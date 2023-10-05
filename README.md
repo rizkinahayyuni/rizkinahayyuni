@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-hi, i'm [Rizkina Hayyuni](https://github.com/rizkinahayyuni/), final year student at State Polytechnic of Malang, I focus on website development. Through the various lessons I got from campus and various trainings and volunteering, I became a motivated and passionate person with responsibility in doing my job.
+hi, i'm [Rizkina Hayyuni](https://github.com/rizkinahayyuni/), fresh graduate from State Polytechnic of Malang, I focus on website development. Through the various lessons I got from campus and various trainings and volunteering, I became a motivated and passionate person with responsibility in doing my job.
 
 
 **languages and tools:**  
